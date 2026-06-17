@@ -3,11 +3,11 @@
 Unabhängiger Daten- und Informationsanalyst aus Nordthüringen.
 
 ## Erfahrungen
-Erstellung und Pflege statischer Webseiten
-HTML, CSS und JavaScript
-GitHub Pages
-Datenaufbereitung und Dokumentation
-Recherche und Auswertung öffentlicher Daten
+* Erstellung und Pflege statischer Webseiten
+* HTML, CSS und JavaScript
+* GitHub Pages
+* Datenaufbereitung und Dokumentation
+* Recherche und Auswertung öffentlicher Daten
 
 ## Interessen
 
