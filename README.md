@@ -11,13 +11,13 @@ Recherche und Auswertung öffentlicher Daten
 
 ## Interessen
 
-* Open Data
-* Kommunalstatistik
-* Regionalgeschichte
-* Datenvisualisierung
-* Digitale Dokumentation
-* Vereins- und Fördermittelmanagement
-* Freie Software
+* Open Data  
+* Kommunalstatistik  
+* Regionalgeschichte  
+* Datenvisualisierung  
+* Digitale Dokumentation  
+* Vereins- und Fördermittelmanagement  
+* Freie Software  
 
 ## Derzeit lerne ich
 
